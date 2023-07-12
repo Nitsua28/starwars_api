@@ -1,0 +1,17 @@
+Http requests
+- consumption-only API — only the HTTP GET method is available on resources.
+- Get All by character
+- Get All by Movie
+- Get All by Trilogy
+- Get All by Character and movie
+- Get All by Character and Trilogy
+- Get Random by character
+- Get Random by Movie
+- Get Random by Trilogy
+- Get Random by Character and movie
+- Get Random by Character and Trilogy
+
+Database
+UI
+- fair use policy
+- table of object description
