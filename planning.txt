@@ -10,7 +10,9 @@ Http requests
 - Get Random by Trilogy
 - Get Random by Character and movie
 - Get Random by Character and Trilogy
-
+(to config multiple column names https://bushansirgur.in/spring-data-jpa-finder-query-methods-by-multiple-field-names-with-examples/)
+(to get random https://www.javatpoint.com/sql-select-random
+https://github.com/Nitsua28/RevPay-Bank-Backend/blob/master/src/main/java/com/revature/RevPayBackend/repository/TransactionRepository.java)
 Database
 UI
 - fair use policy
