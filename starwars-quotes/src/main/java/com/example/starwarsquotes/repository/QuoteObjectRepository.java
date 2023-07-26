@@ -34,7 +34,4 @@ public interface QuoteObjectRepository extends JpaRepository<QuoteObject, String
     @Query(value = "SELECT * FROM PrequelQuotes WHERE (Actor=:actor and Movie=:movie) ORDER BY RAND() LIMIT 1")
     List<QuoteObject> findByMovieAndActorOrderByRand(@Param("movie") String movie, @Param("actor") String actor);
 
-
-    //@Query(value = "SELECT * FROM transaction_table WHERE (account_id=:id or sender_account_id=:id) and date_time>=:timeBegin and date_time<:timeEnd ORDER BY date_time ASC", nativeQuery = true)
-    //    List<Transaction> findByIdAndTimeRange(@Param("id") Long id, @Param("timeBegin") Long timeBegin,@Param("timeEnd") Long timeEnd);
 }
