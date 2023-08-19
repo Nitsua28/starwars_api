@@ -13,6 +13,8 @@ Http requests
 (to config multiple column names https://bushansirgur.in/spring-data-jpa-finder-query-methods-by-multiple-field-names-with-examples/)
 (to get random https://www.javatpoint.com/sql-select-random
 https://github.com/Nitsua28/RevPay-Bank-Backend/blob/master/src/main/java/com/revature/RevPayBackend/repository/TransactionRepository.java)
+(to connect to dynamodb https://www.numpyninja.com/post/spring-boot-rest-api-using-dynamodb-in-local)
+look at proper controller naming
 Database
 UI
 - fair use policy
